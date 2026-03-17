@@ -16,15 +16,15 @@ An automated n8n workflow that processes movie data from email attachments, clea
 ## 🖼️ Workflow Screenshots
 
 ### 1. Complete Workflow Structure
-![Workflow Overview](screenshots/workflow-overview.png)
+![Workflow Overview](https://github.com/mohan1212576/Data-Cleaning-Automation-n8n-Agentic-AI-/blob/main/Main%20Workflow.png)
 *The full automation workflow showing all connected nodes*
 
 ### 2. Gmail Send Configuration
-![Gmail Send Node](screenshots/gmail-send.png)
+![Gmail Send Node](https://github.com/mohan1212576/Data-Cleaning-Automation-n8n-Agentic-AI-/blob/main/Mail%20sending.png)
 *Configuration of the final Gmail node with attachment settings*
 
 ### 3. Successful Execution Result
-![Gmail Output](screenshots/gmail-output.png)
+![Gmail Output](https://github.com/mohan1212576/Data-Cleaning-Automation-n8n-Agentic-AI-/blob/main/Cleaned%20data%20in%20mail.png)
 *The cleaned data successfully received in Gmail inbox*
 
 ## 📝 How It Works
